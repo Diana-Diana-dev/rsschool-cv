@@ -5,7 +5,7 @@
 
 ### Contacts
 
-EMAIL dianaargunina@gmail.com
+EMAIL: dianaargunina@gmail.com\
 [GITHUB](https://github.com/Diana-Diana-dev/)\
 [LINKEDIN](http://linkedin.com/in/dilava/)
 
