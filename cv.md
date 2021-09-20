@@ -5,7 +5,7 @@
 
 ### Contacts
 
-EMAIL dianaargunina@gmail.com\
+EMAIL dianaargunina@gmail.com
 [GITHUB](https://github.com/Diana-Diana-dev/)\
 [LINKEDIN](http://linkedin.com/in/dilava/)
 
@@ -32,17 +32,17 @@ EMAIL dianaargunina@gmail.com\
 
 ### Experience
 
-**2011 - 2021 Boeing ** * Own hotel business*
+**2011 - 2021** *Own hotel business*
 
-**2014 – 2017 ** *portal "Upravdom.by" - development and maintenance*
+**2014 – 2017** *portal "Upravdom.by" - development and maintenance*
 
-**2013 – 2016 ** *portal "Kotlovan.by" - development and maintenance. New buildings in Minsk*
+**2013 – 2016** *portal "Kotlovan.by" - development and maintenance. New buildings in Minsk*
 
-**2009 – 2013 ** *portal "Turpolet.ru" - tour aggregator design*
+**2009 – 2013** *portal "Turpolet.ru" - tour aggregator design*
 
-**2000– 2006 ** *portal "Belpost - cash collection of the Minsk Central Post Office*
+**2000– 2006** *portal "Belpost - cash collection of the Minsk Central Post Office*
 
-**1997– 2002 ** *portal "Higher State College of Communications*
+**1997– 2002** *portal "Higher State College of Communications*
 
 ### Education
 
@@ -63,7 +63,7 @@ EMAIL dianaargunina@gmail.com\
 ### Code examples
 
 ```javascript
-let dots = document.getElementById("dots");
+ let dots = document.getElementById("dots");
  let more = document.getElementById("more");
  let buttonText = document.getElementById("buttonText"); 
  let text =  document.getElementsByClassName("blog__item");    
@@ -85,4 +85,4 @@ if(dots.style.display === "none") {
 
 ### Languages
 
-- [x] English (B1)
+- English (B1)
