@@ -1,6 +1,7 @@
 # Diana Argunina
 
 
+
 **Purpose:** To work in a team with professionals and grow to a confident specialist. Improve skills in JS
 
 ### Contacts
