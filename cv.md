@@ -85,5 +85,5 @@ if(dots.style.display === "none") {
 
 ### Languages
 
-- English (B1)
+- English B1
 
