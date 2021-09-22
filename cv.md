@@ -21,6 +21,7 @@ EMAIL: dianaargunina@gmail.com\
 - [x] HTML, CSS
 - [x] SASS
 - [x] JavaScript
+- [x] Bootstrap
 
 ### Projects
 
